@@ -1,0 +1,37 @@
+{
+    "question": [
+      "Q1. Who developed Python Programming Language?",
+      "Q2. Which type of Programming does Python support?",
+      "Q3. Which of the following is the correct extension of the Python file?",
+      "Q4. Which keyword is used for function in Python language?"
+    ],
+    "answer": [
+      3,
+      4,
+      3,
+      2
+    ],
+    "options": [
+  
+      [" Wick van Rossum",
+       "Rasmus Lerdorf",
+       "Guido van Rossum",
+       "Niene Stom"
+      ],
+      ["object-oriented programming",
+      "structured programming",
+       "functional programming",
+       "all of the mentioned"
+      ],
+      [".python",
+      ".pl",
+      ".py",
+      ".p"
+      ],
+      ["Function",
+       "def",
+       "Fun",
+       "Define"
+      ]
+    ]
+  }
